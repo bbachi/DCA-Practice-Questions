@@ -1,3 +1,4 @@
+# Image Creation, Management, and Registry (20% of exam)
 
 ## Content may include the following:
 

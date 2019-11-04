@@ -12,7 +12,7 @@ This repo contains all the consolidated list of questions based on the DCA study
 4. [Networking](https://github.com/bbachi/DCA-Practice-Questions/blob/master/networking)
 5. [Security](https://github.com/bbachi/DCA-Practice-Questions/blob/master/security)
 6. [Storage and Volumes](https://github.com/bbachi/DCA-Practice-Questions/blob/master/storage_and_volume.md)
-7. [Other Important Links](https://github.com/bbachi/DCA-Practice-Questions/blob/master/README.md)
+7. [Other Important Links](https://github.com/bbachi/DCA-Practice-Questions/blob/master/README.md#other-important-links)
 
 ## Other Important Links
 

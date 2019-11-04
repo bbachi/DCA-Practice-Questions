@@ -84,8 +84,9 @@ When Docker restarts, both the TLS key used to encrypt communication among swarm
 
 <details><summary>How to lock the swarm?</summary>
 <p>
-#### This command produces unlock key. You need to place that in safe place
+
 ```
+// This command produces unlock key. You need to place that in safe place
 docker swarm init --autolock
 ```
 </p>

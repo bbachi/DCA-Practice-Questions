@@ -1,3 +1,5 @@
+# Orchestration (25% of exam)
+
 ## Content may include the following:
 
 * Complete the setup of a swarm mode cluster, with managers and worker nodes

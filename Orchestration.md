@@ -1,5 +1,5 @@
 
-<details><summary>Which command do you use to create a new swarm?</summary>
+1. <details><summary>Which command do you use to create a new swarm?</summary>
 <p>
 
 ```

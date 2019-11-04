@@ -2,7 +2,7 @@
 
 ## Content may include the following:
 
-*Describe the process of signing an image
+* Describe the process of signing an image
 * Demonstrate that an image passes a security scan
 * Enable Docker Content Trust
 * Configure RBAC in UCP

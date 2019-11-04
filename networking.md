@@ -1,4 +1,4 @@
-# Networking
+# Networking (15% of exam)
 
 ## Content may include the following:
 

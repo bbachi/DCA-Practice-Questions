@@ -7,7 +7,7 @@ This repo contains all the consolidated list of questions based on the DCA study
 
 ## Table of Contents:
 1. [Orchestration](https://github.com/bbachi/DCA-Practice-Questions/blob/master/Orchestration.md)
-2. [Image Creation, Management, and Registry](https://github.com/bbachi/DCA-Practice-Questions/blob/master/Image_management.md)
+2. [Image Creation, Management, and Registry](https://github.com/bbachi/DCA-Practice-Questions/blob/master/image.md)
 3. [Installation and Configuration](https://github.com/bbachi/DCA-Practice-Questions/blob/master/install_and_config.md)
 4. [Networking](https://github.com/bbachi/DCA-Practice-Questions/blob/master/networking.md)
 5. [Security](https://github.com/bbachi/DCA-Practice-Questions/blob/master/security.md)

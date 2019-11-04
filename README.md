@@ -1,4 +1,4 @@
-# DCA-Practice-Questions
+# DCA-Practice-Questions (Still Updating)
 This repo contains all the consolidated list of questions based on the DCA study guide
 
 **Docker is an essential tool in every organization nowadays. Every company is implementing DevOps and containerize their applications for easier and faster production deployments. Docker Certified Associate Exam is designed to validate the Docker skills necessary for any individual to succeed in today's DevOps world.**

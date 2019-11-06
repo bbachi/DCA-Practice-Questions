@@ -18,4 +18,5 @@ This repo contains all the consolidated list of questions based on the DCA study
 
 1. [All You Need To Know About The Exam](https://medium.com/bb-tutorials-and-thoughts/all-you-need-to-know-about-docker-certified-associate-dca-exam-21dd2ccadbc0)
 2. [Practice Questions](https://medium.com/bb-tutorials-and-thoughts/250-practice-questions-for-the-dca-exam-84f3b9e8f5ce)
+3. [Exam Study Guide](https://docker.cdn.prismic.io/docker%2Fa2d454ff-b2eb-4e9f-af0e-533759119eee_dca+study+guide+v1.0.1.pdf)
 

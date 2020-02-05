@@ -177,7 +177,7 @@ Yes
  
 ```
 // for the nginx image
-docker create service --replicas 3 --name nginx-web nginx
+docker service create --replicas 3 --name nginx-web nginx
 ```
 </p>
 </details>

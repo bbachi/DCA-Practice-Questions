@@ -20,7 +20,3 @@ This repo contains all the consolidated list of questions based on the DCA study
 2. [Practice Questions](https://medium.com/bb-tutorials-and-thoughts/250-practice-questions-for-the-dca-exam-84f3b9e8f5ce)
 3. [Exam Study Guide](https://docker.cdn.prismic.io/docker%2Fa2d454ff-b2eb-4e9f-af0e-533759119eee_dca+study+guide+v1.0.1.pdf)
 
-
-## Other Certifications
-
-* [Certified Kubernetes Application Developer](https://github.com/bbachi/CKAD-Practice-Questions)
